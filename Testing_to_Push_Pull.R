@@ -20,3 +20,9 @@ ggplot(data, aes(x = category, y = value)) +
     x = "Category",
     y = "Value"
   )
+
+# Go to commit in the Git tab (second feature) and check all checks at Staged.
+# Add a commit message, commit, close small window.
+# Now we want to push in the window that stays. 
+# Go back to Github and check the repository we made before with the script 
+# LinkingGithubAndR.R in Notes folder.
