@@ -26,3 +26,5 @@ ggplot(data, aes(x = category, y = value)) +
 # Now we want to push in the window that stays. 
 # Go back to Github and check the repository we made before with the script 
 # LinkingGithubAndR.R in Notes folder.
+
+# Now, I make this extra line online in Github to test pulling. 
